@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="02-sb-apache-kafka-consumer"/>
+<aop-project name="01-sb-apache-kafka-producer"/>
+</aop-reference-model>
